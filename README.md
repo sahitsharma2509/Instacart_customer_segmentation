@@ -1,3 +1,3 @@
 # Instacart_customer_segmentation
-Worked on a sample of 100,000 orders out of 32million orders. Inorder to get the full analysis.  https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis
+Worked on a sample of 5000 users and analysed the purchase behavior of the users to create customer segments & recommendation system (User-Item collaborative filtering). Inorder to get the full analysis.  https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis
 to download the dataset. 
